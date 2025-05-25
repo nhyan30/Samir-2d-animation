@@ -26,3 +26,8 @@ A comprehensive **visual dictionary** supports the animation, detailing:
 
 Explore it here: [Visual Dictionary on Miro](https://miro.com/app/board/uXjVLHxt9vc=/?share_link_id=444236562660)
 
+## 🎬 Watch the Animation
+
+You can watch the full 2-minute animation here:  
+[▶️ Samir Al Bahr Animation](https://drive.google.com/file/d/1S0w-KoXIyypQpLRQmVc_cNqDGGbKMDiR/view?usp=drive_link)
+
