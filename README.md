@@ -2,6 +2,10 @@
 
 **Samir Al Bahr** is a 2-minute 2D animation project that brings to life an adventurous and curious sea creature with a heartfelt mission. This animation introduces **Samir**, a spirited young octopus with a dream of uniting all sea creatures and reviving a lost underwater civilization.
 
+## 🎨 Design and Tools
+
+The character silhouette and design elements for Samir were created using **Krita**. Krita enabled expressive line work, character exploration, and the development of visual storytelling assets.
+
 ## 🌊 Story Overview
 
 The animation follows Samir’s journey across three key scenes:
