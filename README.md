@@ -1,17 +1,24 @@
 # Samir Al Bahr – 2D Character Animation
 
-## Overview
-**Samir Al Bahr** is a 2-minute 2D character animation project developed as part of my coursework at the University of Sharjah. The project brings to life a character named **Samir**, an adventurous octopus with a deep curiosity about the sea world and a dream of uniting all sea creatures.
+**Samir Al Bahr** is a 2-minute 2D animation project that brings to life an adventurous and curious sea creature with a heartfelt mission. This animation introduces **Samir**, a spirited young octopus with a dream of uniting all sea creatures and reviving a lost underwater civilization.
 
-## Story
-Samir’s journey begins when he is discovered by a diver inside a mysterious wooden barrel at the bottom of the sea. As he grows, he becomes a hopeful hero destined to uncover the secrets of an **erased underwater city**, where sea creatures once lived in harmony. Samir dreams of reuniting the tribes and hosting a grand sea-wide dinner.
+## 🌊 Story Overview
 
-## Animation Structure
-The 2-minute animation is built around three main storyboards:
-1. **Origin Story** – A diver finds baby Samir in a barrel deep underwater.
-2. **The Quest Begins** – Older Samir tries to retrieve a flying map and falls off a cliff, showing his humorous side.
-3. **Exploration and Resilience** – Samir climbs a tree trunk for a better view, falls again, and quickly recovers, emphasizing his lighthearted and determined spirit.
+The animation follows Samir’s journey across three key scenes:
 
-## Visual Dictionary
-A detailed visual dictionary was also created, documenting Samir’s outfit, accessories, inspirations, and environmental elements.  
-🔗 [View Visual Dictionary on Miro](https://miro.com/app/board/uXjVLHxt9vc=/?share_link_id=444236562660)
+1. **Origin Story** – A diver discovers baby Samir hidden inside a mysterious wooden barrel at the ocean floor.  
+2. **The Quest Begins** – Now older, Samir attempts to retrieve a flying map, leading to a comedic fall from a cliff that reveals his playful nature.  
+3. **Exploration and Resilience** – Samir climbs a tree trunk to scout the horizon, only to tumble again and bounce back with determination and charm.
+
+As Samir’s story unfolds, we see his personality shine through: brave, curious, humorous, and endlessly hopeful. His ultimate goal is to rediscover the secrets of an ancient, erased underwater city and host a sea-wide reunion dinner to bring all ocean tribes together.
+
+## 📚 Visual Dictionary
+
+A comprehensive **visual dictionary** supports the animation, detailing:
+
+- Samir’s outfit and accessories  
+- Inspirations behind his character design  
+- Environmental elements that shape his world  
+
+Explore it here: [Visual Dictionary on Miro](https://miro.com/app/board/uXjVLHxt9vc=/?share_link_id=444236562660)
+
