@@ -1,3 +1,4 @@
+<img width="1175" height="912" alt="Front" src="https://github.com/user-attachments/assets/9aef503d-e490-4adb-babe-18229332502c" />
 # Samir Al Bahr – 2D Character Animation
 
 **Samir Al Bahr** is a 2-minute 2D animation project that brings to life an adventurous and curious sea creature with a heartfelt mission. This animation introduces **Samir**, a spirited young octopus with a dream of uniting all sea creatures and reviving a lost underwater civilization.
